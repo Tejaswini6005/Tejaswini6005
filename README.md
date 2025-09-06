@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me  
-🎓 Computer Science Graduate passionate about **Data Analytics, Machine Learning, and Full-Stack Development**.  
+🎓 Computer Science Graduate passionate about **Data Science and Analytics, Machine Learning.**.  
 💡 I enjoy solving real-world business problems with **data-driven insights**.  
 🌱 Currently exploring **Advanced Analytics, BI dashboards, and end-to-end ML projects**.  
 

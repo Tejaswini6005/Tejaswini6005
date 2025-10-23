@@ -32,10 +32,11 @@ Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | NLTK | Flask | MERN Stack
 
 ## 💼 Experience  
 - 🖥️ **Data Analyst - Greateway Software Pvt. Ltd. | Pune Maharashtra (March 2025 - Present)**
-  ➡ Analyzed and visualized large datasets using SQL, Excel, and Power BI/Tableau to deliver actionable 
+
+    ➡ Analyzed and visualized large datasets using SQL, Excel, and Power BI/Tableau to deliver actionable 
       business insights.Built interactive dashboards and automated reports, reducing manual effort and improving decision- 
       making speed. 
-  ➡ Performed data cleaning, validation, and statistical analysis (Python, Excel) to ensure accuracy and 
+    ➡ Performed data cleaning, validation, and statistical analysis (Python, Excel) to ensure accuracy and 
       identify trends. 
 
 - 🖥️ **Full Stack Developer Intern – Webstack Academy (Feb 2024 – Apr 2024)**  

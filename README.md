@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Tejaswini Singh  
 
-📍 Pune, India | 📧 [Email](mailto:stejaswini031@gmail.com)  
+📍 Pune, India | 📧 [Email](mailto:stejaswini031@gmail.com)  [Portfolio](https://tejaswinisingh-myportfolio-website.netlify.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](http://www.linkedin.com/in/tejaswini-singh-94bb731b6) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Tejaswini6005) 

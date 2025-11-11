@@ -77,6 +77,7 @@ Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | NLTK | Flask | MERN Stack
 💼 [LinkedIn](http://www.linkedin.com/in/tejaswini-singh-94bb731b6)  
 📊 [Tableau Public](https://public.tableau.com/app/profile/tejaswini.singh5659)  
 💻 [GitHub](https://github.com/Tejaswini6005)  
+🖥️ [Portfolio](https://tejaswinisingh-myportfolio-website.netlify.app/)
 
 ---
 
